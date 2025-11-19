@@ -10,4 +10,6 @@
 
 [Lecture 4: Unfrozen soil processes](IresonCRHP_04.pdf)
 
+[Lecture 5: Frozen soil processes](IresonCRHP_05.pdf)
+
 If you wish to try using my Richards Equation solver yourself, you can obtain the python code from [here](https://github.com/amireson/openRE) 
