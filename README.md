@@ -12,4 +12,6 @@
 
 [Lecture 5: Frozen soil processes](IresonCRHP_05.pdf)
 
+[Lecture 6: Modelling cold regions](IresonCRHP_06.pdf)
+
 If you wish to try using my Richards Equation solver yourself, you can obtain the python code from [here](https://github.com/amireson/openRE) 
